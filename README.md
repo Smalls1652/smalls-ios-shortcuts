@@ -20,9 +20,9 @@ This is my repository of iOS Shortcuts I have created.
 
 **Description**: Gets the estimated arrival time from a starting location to an ending location. The ending location can be taken from a shared map link from Apple Maps.
 
-**Current Version**: _1.0_
+**Current Version**: _1.1_
 
-[Shortcuts iCloud Link](https://www.icloud.com/shortcuts/d2a6060a05074664adc60183ccaf1bc0)
+[Shortcuts iCloud Link](https://www.icloud.com/shortcuts/a1fadeaa57414b699dd63e7f0916ef28)
 
 ### Math
 
